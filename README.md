@@ -1,7 +1,7 @@
 # ThingsVis
 Gantt Chart Visualization for the Things ToDo App
 
-![Gantt Vis](/images/logo.png)
+![Gantt Vis](https://github.com/sebastian-meier/ThingsVis/blob/master/thingsVisualizer1.gif?raw=true)
 
 This is a project from back in 2010, since then no further development.
 This is just for the purpose of documentation.
